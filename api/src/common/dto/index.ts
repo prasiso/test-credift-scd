@@ -1,0 +1,1 @@
+export * from './global-query-find-all.dto'
